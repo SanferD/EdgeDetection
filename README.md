@@ -2,7 +2,8 @@
 
 ## Running the Code
 Runs on Linux.
-Uses opencv library.
+Uses opencv library to read and write images only.
+All other operations are done using standard C.
 To compile: make
 To run: ./main
 
